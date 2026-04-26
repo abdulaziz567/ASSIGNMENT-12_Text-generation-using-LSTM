@@ -1,4 +1,3 @@
-tensorflow
 streamlit
+tensorflow-cpu
 numpy
-pickle-mixin
